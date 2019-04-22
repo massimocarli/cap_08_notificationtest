@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">NotificationTest</string>
+
+  <string name="notification_channel_name">MaxChannel</string>
+  <string name="notification_channel_description">This is the Channel we want to create in order to show how to manage
+    notifications into an Android application.
+  </string>
+  <string name="channel_settings">Channel Settings</string>
+  <string name="channel_dump">Channel Dump</string>
+  <string name="channel_delete">Delete Channel</string>
+
+  <string name="big_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+    scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
+    electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
+    Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus
+    PageMaker including versions of Lorem Ipsum.
+  </string>
+  <string name="destination">DESTINATION</string>
+  <string name="reply_label">Reply</string>
+  <string name="replied_label">Replied</string>
+</resources>
